@@ -5,6 +5,5 @@ Learn to LLMs for openai
 https://gamma.app/docs/-vsoxoexxs6v3qzp?mode=doc
 
 ### ChatGPT Prompt Engineering for Developers
-#### l3 at 12/21 
+#### 02l3
 https://s172-31-10-142p18503.lab-aws-production.deeplearning.ai/notebooks/mylearn-l3-iterative-prompt-development.ipynb
-

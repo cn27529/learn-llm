@@ -1,0 +1,26 @@
+{
+  "name": "learn-openai",
+  "version": "1.0.0",
+  "description": "Learn to LLMs for openai",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cn27529/learn-openai.git"
+  },
+  "keywords": [
+    "llms",
+    "openai"
+  ],
+  "author": "cn27529",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cn27529/learn-openai/issues"
+  },
+  "homepage": "https://github.com/cn27529/learn-openai#readme"
+}

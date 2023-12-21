@@ -2,7 +2,7 @@
   "name": "learn-openai",
   "version": "1.0.0",
   "description": "Learn to LLMs for openai",
-  "main": "index.js",
+  "main": "index.py",
   "directories": {
     "doc": "docs"
   },

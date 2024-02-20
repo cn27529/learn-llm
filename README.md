@@ -1,4 +1,4 @@
-# learn-openai
+# learn-llm
 Learn to LLMs for openai
 
 ## 大型語言模型專題實作共學社群 - 八周課程內容簡介

@@ -8,5 +8,5 @@ https://gamma.app/docs/-vsoxoexxs6v3qzp?mode=doc
 #### 02l3
 https://s172-31-10-142p18503.lab-aws-production.deeplearning.ai/notebooks/mylearn-l3-iterative-prompt-development.ipynb
 
-github copilot
+github copilot success
 https://github.com/github-copilot/signup/success

@@ -7,3 +7,6 @@ https://gamma.app/docs/-vsoxoexxs6v3qzp?mode=doc
 ### ChatGPT Prompt Engineering for Developers
 #### 02l3
 https://s172-31-10-142p18503.lab-aws-production.deeplearning.ai/notebooks/mylearn-l3-iterative-prompt-development.ipynb
+
+github copilot
+https://github.com/github-copilot/signup/success

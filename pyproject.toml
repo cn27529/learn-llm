@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "learn-llm"
+version = "0.1.0"
+description = ""
+authors = ["ding <cn27529@gmail.com>"]
+readme = "README.md"
+packages = [{include = "learn_llm"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.0.0"
+urllib3 = "1.26.15"
+langchain = "0.1.9"
+chainlit = "^1.0.301"
+openai = "1.12"
+langfuse = "^2.13.4"
+pydantic-settings = "^2.2.0"
+plotly = "^5.19.0"
+langchain-experimental = "^0.0.52"
+
+[tool.poetry.group.dev.dependencies]
+python-dotenv = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

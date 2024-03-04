@@ -2,7 +2,7 @@
 name = "learn-llm"
 version = "0.1.0"
 description = ""
-authors = ["ding <cn27529@gmail.com>"]
+authors = ["cn27529 <cn27529@hotmail.com>"]
 readme = "README.md"
 packages = [{include = "learn_llm"}]
 
@@ -10,8 +10,8 @@ packages = [{include = "learn_llm"}]
 python = "^3.10"
 python-dotenv = "^1.0.0"
 urllib3 = "1.26.15"
-langchain = "0.1.9"
-chainlit = "^1.0.301"
+langchain = "0.1.8"
+chainlit = "^1.0.200"
 openai = "1.12"
 langfuse = "^2.13.4"
 pydantic-settings = "^2.2.0"

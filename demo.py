@@ -5,6 +5,10 @@ import chainlit as cl
 def tool():
     return "Response from the tool!"
 
+@cl.step
+def tool2():
+    return "Response from the my tool2!"
+
 
 @cl.on_message  # this function will be called every time a user inputs a message in the UI
 async def main(message: cl.Message):
@@ -21,6 +25,7 @@ async def main(message: cl.Message):
 
     # Call the tool
     tool()
+    tool2()
 
     content = "This is the final answer"
 

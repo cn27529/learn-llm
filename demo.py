@@ -27,7 +27,7 @@ async def main(message: cl.Message):
     tool()
     tool2()
 
-    content = "This is the final answer"
+    content = "This is the final answer display side UI for text1 value"
 
     # Send the final answer.
     await cl.Message(

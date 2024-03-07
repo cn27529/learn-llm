@@ -30,7 +30,7 @@ async def main(message: cl.Message):
          # Send the second message with the elements
         content=content,
         elements=[
-            cl.Image(path="./twitter.png", name="image1", display="inline"),
+            cl.Image(path="./images/twitter.png", name="image1", display="inline"),
             cl.Text(content="Here is a side text document", name="text1", display="side"),
         ],
     ).send()

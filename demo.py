@@ -22,10 +22,10 @@ async def main(message: cl.Message):
     # Call the tool
     tool()
 
+    content = "This is the final answer"
+
     # Send the final answer.
     await cl.Message(
-
-        content = "This is the final answer"
 
          # Send the second message with the elements
         content=content,
